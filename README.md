@@ -1,6 +1,6 @@
 # Hooks
 
-A hooks library for ruby.
+A hooks library for ruby
 
 ## Before hook
 
